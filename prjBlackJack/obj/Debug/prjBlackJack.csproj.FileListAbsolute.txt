@@ -1,0 +1,127 @@
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+E:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+F:\ICS\ASSIGNMENT\INPROGRESS\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+F:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+W:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form5.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form5.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\bin\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\bin\Debug\prjBlackJack.pdb
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.Form5.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack - Copy\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.exe
+F:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\bin\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\bin\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.Form5.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack1\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.Form5.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\bin\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\bin\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack3\prjBlackJack\obj\Debug\prjBlackJack.Form6.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.pdb
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csprojResolveAssemblyReference.cache
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form1.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form2.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form3.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form5.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Form6.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.Properties.Resources.resources
+E:\ICS\ASSIGNMENT\COMPLETED\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.csproj.GenerateResource.Cache
+E:\School\11\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+E:\School\11\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+E:\School\11\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
+W:\School\11\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\bin\Debug\prjBlackJack.exe.config
+W:\School\11\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.exe
+W:\School\11\ICS\ASSIGNMENTS\COMPLETED\Unit2Assignment\prjBlackJack\prjBlackJack\obj\Debug\prjBlackJack.pdb
