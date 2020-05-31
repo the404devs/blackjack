@@ -5,3 +5,5 @@ It's a pretty decent and slightly glitchy game of Blackjack, written in C#.
 The website we made with this project is lost to time. It was on Matt's site, and I don't have a copy of it.
 
 Made in collaboration with Kevin, Matt, and Mitchell
+
+Also includes Blackjack Anniversary Edition (Blackjack2.zip, 03/17/18)
